@@ -30,9 +30,9 @@ hr-workforce-analytics/
 │   └── HR_Data_Quality_and_Exploratory_Analysis.ipynb
 └── powerbi/
     ├── HR_Workforce_Analytics.pbix
-    └── screenshots/
-        ├── executive_overview.png
-        └── workforce_retention_insights.png
+└── screenshots/
+    ├── executive_overview.png
+    └── workforce_retention_insights.png
 ```
 
 ## Dataset
