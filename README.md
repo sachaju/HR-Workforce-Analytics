@@ -9,6 +9,16 @@ The project combines Python-based data quality assessment and exploratory data a
 
 **Tools:** Python, pandas, NumPy, Jupyter Notebook, Power BI
 
+## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](screenshots/executive_overview.png)
+
+### Workforce Retention Insights
+
+![Workforce Retention Insights](screenshots/workforce_retention_insights.png)
+
 ## Project Objectives
 
 - Assess dataset quality, consistency and suitability for analysis.
