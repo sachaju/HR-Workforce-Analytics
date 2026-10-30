@@ -13,11 +13,11 @@ The project combines Python-based data quality assessment and exploratory data a
 
 ### Executive Overview
 
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](powerbi_screenshots/executive_overview.png)
 
 ### Workforce Retention Insights
 
-![Workforce Retention Insights](screenshots/workforce_retention_insights.png)
+![Workforce Retention Insights](powerbi_screenshots/workforce_retention_insights.png)
 
 ## Project Objectives
 
@@ -40,7 +40,7 @@ hr-workforce-analytics/
 │   └── HR_Data_Quality_and_Exploratory_Analysis.ipynb
 └── powerbi/
     ├── HR_Workforce_Analytics.pbix
-└── screenshots/
+└── powerbi_screenshots/
     ├── executive_overview.png
     └── workforce_retention_insights.png
 ```
